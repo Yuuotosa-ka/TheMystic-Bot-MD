@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['17722386341', '👑 Shadow - King 👑', true],
-  ['5219996125657'],
+  ['50584528742', '👑 Shadow - King 👑', true],
+  ['50589269817'],
   ['5219991402134'],
   ['5219992095479']
 ] // Cambia los numero que quieras
